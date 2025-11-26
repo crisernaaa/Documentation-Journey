@@ -1,11 +1,11 @@
 # Comandos que aprendí en Ubuntu
-#Cristóbal Serna, 4506706
+# Cristóbal Serna, 4506706
 
 A continuación se presenta una guía sobre comandos básicos de Linux (Ubuntu) y su función
 
 ---
 
-##Navegación de directorios
+## Navegación de directorios
 
 ### **`pwd`**
 
@@ -155,4 +155,8 @@ grep "palabra" archivo.txt
 ```
 
 ---
+
+# Conclusión
+
+Durante este curso aprendí a usar varios comandos básicos de Linux que me ayudaron a entender mejor cómo funciona Ubuntu desde la terminal. Al principio parecía complicado, pero con práctica me di cuenta de que comandos como ls, cd o mkdir hacen mucho más fácil moverme entre carpetas y organizar archivos. También me sirvió aprender comandos de administración como  apt update o instal; porque ahora entiendo cómo ver los procesos, actualizar el sistema y revisar el uso de recursos. En general, estos comandos me ayudaron a sentirme más cómodo usando la terminal y a darme cuenta de lo poderosa que puede ser para trabajar más rápido y de forma más eficiente
 
